@@ -1,25 +1,7 @@
-bin
-build
-dist
-include
-lib
-venv
-*.pyc
-*.swp
-*.egg-info
-*.egg/*
-*.eggs/*
-
-# Database files
-*.sqlite3
-*.db
-
-# Sphinx docs
-docs/_build/
-
-# IntelliJ
-.idea
-*.iml
-
-examples/settings.py
-examples/ubuntu_dialogs*
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
